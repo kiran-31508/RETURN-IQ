@@ -1,0 +1,919 @@
+return_id,date_received,sku,supplier_batch,reason_code,condition_grade,status
+R50813,2026-08-19,HP-220,HB-10,Not as described,B,Processed
+R50182,2026-08-19,GB-018,018-06,Missing accessories,A,Processed
+R50281,2026-08-19,GB-030,030-16,Size/fit issue,A,Processed
+R50574,2026-08-19,GB-054,054-01,Performance issue,A,Processed
+R50630,2026-08-19,GB-065,065-10,Changed mind,B,Processed
+R50289,2026-08-19,GB-032,032-05,Size/fit issue,B,Processed
+R50666,2026-08-20,GB-070,070-06,Defective – not powering on,A,Processed
+R50211,2026-08-20,GB-020,020-07,Not as described,C,Processed
+R50177,2026-08-20,GB-016,016-12,Missing accessories,D,Processed
+R50103,2026-08-20,GB-006,006-02,Size/fit issue,B,Processed
+R50615,2026-08-20,GB-062,062-01,Missing accessories,C,Processed
+R50740,2026-08-20,GB-081,081-01,Changed mind,B,Processed
+R50014,2026-08-20,GB-002,002-05,Changed mind,A,Processed
+R50805,2026-08-21,HP-220,HB-07,Changed mind,A,Processed
+R50461,2026-08-21,GB-045,045-02,Not as described,D,Processed
+R50085,2026-08-21,GB-003,003-06,Missing accessories,A,Processed
+R50144,2026-08-22,GB-010,010-06,Damaged in transit,D,Processed
+R50700,2026-08-22,GB-075,075-02,Damaged in transit,A,Processed
+R50175,2026-08-22,GB-015,015-16,Missing accessories,A,Processed
+R50525,2026-08-22,GB-049,049-17,Changed mind,A,Processed
+R50796,2026-08-22,HP-220,HB-10,Defective – not powering on,B,Processed
+R50514,2026-08-22,GB-046,046-06,Performance issue,C,Processed
+R50739,2026-08-22,GB-081,081-10,Changed mind,C,Processed
+R50662,2026-08-22,GB-070,070-05,Not as described,C,Processed
+R50652,2026-08-23,GB-068,068-12,Not as described,A,Processed
+R50654,2026-08-23,GB-068,068-19,Performance issue,A,Processed
+R50090,2026-08-23,GB-004,004-17,Damaged in transit,B,Processed
+R50605,2026-08-23,GB-060,060-16,Damaged in transit,D,Processed
+R50498,2026-08-23,GB-046,046-12,Damaged in transit,C,Processed
+R50671,2026-08-23,GB-071,071-09,Changed mind,B,Processed
+R50808,2026-08-23,HP-220,HB-08,Performance issue,C,Processed
+R50339,2026-08-23,GB-037,037-19,Missing accessories,B,Processed
+R50449,2026-08-24,GB-044,044-05,Performance issue,A,Processed
+R50095,2026-08-24,GB-006,006-15,Performance issue,D,Processed
+R50400,2026-08-24,GB-042,042-10,Damaged in transit,B,Processed
+R50507,2026-08-24,GB-046,046-11,Changed mind,B,Processed
+R50661,2026-08-24,GB-069,069-19,Changed mind,A,Processed
+R50419,2026-08-24,GB-043,043-05,Missing accessories,C,Processed
+R50360,2026-08-24,GB-038,038-09,Performance issue,D,Processed
+R50255,2026-08-24,GB-028,028-04,Defective – not powering on,D,Processed
+R50667,2026-08-24,GB-070,070-10,Not as described,B,Processed
+R50583,2026-08-25,GB-057,057-19,Size/fit issue,B,Processed
+R50358,2026-08-25,GB-038,038-12,Not as described,A,Processed
+R50390,2026-08-25,GB-041,041-17,Missing accessories,A,Processed
+R50725,2026-08-25,GB-078,078-03,Defective – not powering on,C,Processed
+R50714,2026-08-25,GB-078,078-17,Damaged in transit,A,Processed
+R50388,2026-08-25,GB-041,041-16,Damaged in transit,C,Processed
+R50330,2026-08-25,GB-036,036-13,Performance issue,D,Processed
+R50552,2026-08-25,GB-050,050-08,Missing accessories,D,Processed
+R50298,2026-08-25,GB-032,032-17,Size/fit issue,B,Processed
+R50906,2026-08-25,PB-10K,PB-31,Changed mind,A,Processed
+R50179,2026-08-25,GB-017,017-16,Defective – not powering on,A,Processed
+R50180,2026-08-25,GB-017,017-14,Defective – not powering on,C,Processed
+R50405,2026-08-25,GB-043,043-08,Missing accessories,D,Processed
+R50414,2026-08-25,GB-043,043-07,Damaged in transit,A,Processed
+R50670,2026-08-25,GB-071,071-08,Not as described,B,Processed
+R50904,2026-08-25,PB-10K,PB-33,Missing accessories,A,Processed
+R50338,2026-08-26,GB-037,037-04,Missing accessories,B,Processed
+R50291,2026-08-26,GB-032,032-16,Defective – not powering on,B,Processed
+R50599,2026-08-26,GB-059,059-18,Changed mind,A,Processed
+R50127,2026-08-26,GB-009,009-17,Not as described,B,Processed
+R50133,2026-08-26,GB-010,010-03,Damaged in transit,B,Processed
+R50284,2026-08-26,GB-031,031-06,Changed mind,B,Processed
+R50258,2026-08-26,GB-028,028-15,Performance issue,C,Processed
+R50232,2026-08-26,GB-023,023-11,Performance issue,B,Processed
+R50128,2026-08-27,GB-009,009-10,Size/fit issue,A,Processed
+R50136,2026-08-27,GB-010,010-02,Damaged in transit,B,Processed
+R50308,2026-08-27,GB-034,034-09,Missing accessories,A,Processed
+R50346,2026-08-27,GB-037,037-07,Size/fit issue,B,Processed
+R50164,2026-08-27,GB-013,013-11,Performance issue,A,Processed
+R50276,2026-08-27,GB-029,029-14,Changed mind,B,Processed
+R50439,2026-08-27,GB-044,044-17,Changed mind,C,Processed
+R50607,2026-08-27,GB-060,060-11,Missing accessories,A,Processed
+R50454,2026-08-27,GB-045,045-14,Defective – not powering on,B,Processed
+R50554,2026-08-27,GB-050,050-15,Missing accessories,B,Processed
+R50042,2026-08-27,GB-003,003-17,Missing accessories,B,Processed
+R50743,2026-08-27,GB-081,081-05,Changed mind,A,Processed
+R50717,2026-08-27,GB-078,078-07,Missing accessories,B,Processed
+R50293,2026-08-28,GB-032,032-19,Size/fit issue,C,Processed
+R50114,2026-08-28,GB-007,007-02,Missing accessories,C,Processed
+R50534,2026-08-28,GB-050,050-03,Damaged in transit,B,Processed
+R50317,2026-08-28,GB-035,035-18,Missing accessories,B,Processed
+R50611,2026-08-28,GB-062,062-16,Changed mind,A,Processed
+R50891,2026-08-28,PB-10K,PB-33,Damaged in transit,C,Processed
+R50590,2026-08-28,GB-058,058-03,Changed mind,D,Processed
+R50804,2026-08-28,HP-220,HB-07,Changed mind,A,Processed
+R50403,2026-08-28,GB-043,043-12,Changed mind,B,Processed
+R50721,2026-08-28,GB-078,078-13,Missing accessories,A,Processed
+R50269,2026-08-28,GB-029,029-18,Not as described,A,Processed
+R50034,2026-08-29,GB-003,003-03,Size/fit issue,B,Processed
+R50111,2026-08-29,GB-006,006-13,Not as described,C,Processed
+R50728,2026-08-29,GB-078,078-13,Missing accessories,B,Processed
+R50267,2026-08-29,GB-029,029-01,Not as described,C,Processed
+R50189,2026-08-29,GB-018,018-05,Missing accessories,A,Processed
+R50315,2026-08-29,GB-035,035-02,Changed mind,A,Processed
+R50472,2026-08-30,GB-046,046-03,Size/fit issue,C,Processed
+R50011,2026-08-30,GB-002,002-11,Missing accessories,A,Processed
+R50735,2026-08-30,GB-080,080-09,Size/fit issue,A,Processed
+R50502,2026-08-30,GB-046,046-17,Not as described,A,Processed
+R50496,2026-08-30,GB-046,046-08,Size/fit issue,A,Processed
+R50469,2026-08-30,GB-046,046-06,Defective – not powering on,A,Processed
+R50708,2026-08-30,GB-078,078-11,Performance issue,A,Processed
+R50043,2026-08-30,GB-003,003-18,Size/fit issue,A,Processed
+R50005,2026-08-30,GB-001,001-08,Not as described,C,Processed
+R50516,2026-08-30,GB-047,047-14,Size/fit issue,C,Processed
+R50168,2026-08-30,GB-013,013-05,Not as described,A,Processed
+R50099,2026-08-30,GB-006,006-02,Not as described,B,Processed
+R50371,2026-08-30,GB-040,040-01,Damaged in transit,C,Processed
+R50724,2026-08-30,GB-078,078-17,Not as described,A,Processed
+R50644,2026-08-30,GB-067,067-04,Defective – not powering on,C,Processed
+R50592,2026-08-31,GB-058,058-19,Not as described,B,Processed
+R50266,2026-08-31,GB-029,029-06,Defective – not powering on,A,Processed
+R50596,2026-08-31,GB-059,059-07,Damaged in transit,C,Processed
+R50350,2026-08-31,GB-037,037-14,Size/fit issue,C,Processed
+R50572,2026-09-01,GB-053,053-10,Size/fit issue,B,Processed
+R50027,2026-09-01,GB-003,003-15,Size/fit issue,A,Processed
+R50427,2026-09-01,GB-043,043-17,Size/fit issue,A,Processed
+R50204,2026-09-01,GB-018,018-09,Changed mind,D,Processed
+R50504,2026-09-01,GB-046,046-05,Changed mind,A,Processed
+R50367,2026-09-01,GB-039,039-17,Not as described,C,Processed
+R50475,2026-09-01,GB-046,046-10,Not as described,B,Processed
+R50228,2026-09-01,GB-023,023-01,Damaged in transit,B,Processed
+R50207,2026-09-01,GB-018,018-15,Defective – not powering on,B,Processed
+R50524,2026-09-01,GB-049,049-19,Missing accessories,A,Processed
+R50122,2026-09-02,GB-008,008-19,Not as described,A,Processed
+R50230,2026-09-02,GB-023,023-11,Damaged in transit,C,Processed
+R50636,2026-09-02,GB-066,066-03,Damaged in transit,C,Processed
+R50540,2026-09-02,GB-050,050-07,Defective – not powering on,C,Processed
+R50141,2026-09-02,GB-010,010-14,Performance issue,A,Processed
+R50649,2026-09-02,GB-068,068-16,Defective – not powering on,A,Processed
+R50803,2026-09-02,HP-220,HB-08,Size/fit issue,C,Processed
+R50065,2026-09-03,GB-003,003-19,Missing accessories,B,Processed
+R50310,2026-09-03,GB-035,035-01,Not as described,A,Processed
+R50443,2026-09-03,GB-044,044-08,Missing accessories,A,Processed
+R50137,2026-09-03,GB-010,010-16,Missing accessories,A,Processed
+R50444,2026-09-03,GB-044,044-18,Size/fit issue,A,Processed
+R50646,2026-09-03,GB-067,067-13,Damaged in transit,B,Processed
+R50581,2026-09-03,GB-056,056-06,Size/fit issue,B,Processed
+R50364,2026-09-03,GB-038,038-14,Not as described,B,Processed
+R50382,2026-09-03,GB-041,041-02,Damaged in transit,B,Processed
+R50183,2026-09-04,GB-018,018-11,Size/fit issue,A,Processed
+R50212,2026-09-04,GB-020,020-09,Defective – not powering on,C,Processed
+R50691,2026-09-04,GB-074,074-11,Not as described,C,Processed
+R50249,2026-09-05,GB-028,028-13,Defective – not powering on,A,Processed
+R50470,2026-09-05,GB-046,046-18,Size/fit issue,A,Processed
+R50125,2026-09-05,GB-009,009-01,Not as described,B,Processed
+R50656,2026-09-05,GB-069,069-13,Defective – not powering on,B,Processed
+R50187,2026-09-05,GB-018,018-09,Performance issue,A,Processed
+R50432,2026-09-05,GB-044,044-03,Size/fit issue,C,Processed
+R50513,2026-09-06,GB-046,046-01,Changed mind,A,Processed
+R50893,2026-09-06,PB-10K,PB-31,Damaged in transit,C,Processed
+R50557,2026-09-06,GB-051,051-08,Damaged in transit,B,Processed
+R50523,2026-09-06,GB-049,049-13,Not as described,B,Processed
+R50392,2026-09-06,GB-041,041-02,Missing accessories,B,Processed
+R50017,2026-09-06,GB-003,003-09,Performance issue,A,Processed
+R50566,2026-09-07,GB-052,052-08,Not as described,D,Processed
+R50467,2026-09-07,GB-046,046-19,Damaged in transit,A,Processed
+R50677,2026-09-07,GB-073,073-03,Changed mind,A,Processed
+R50063,2026-09-07,GB-003,003-02,Defective – not powering on,C,Processed
+R50675,2026-09-07,GB-073,073-15,Missing accessories,B,Processed
+R50687,2026-09-07,GB-074,074-15,Not as described,A,Processed
+R50264,2026-09-07,GB-028,028-09,Not as described,A,Processed
+R50910,2026-09-07,PB-10K,PB-31,Damaged in transit,A,Processed
+R50067,2026-09-07,GB-003,003-17,Damaged in transit,C,Processed
+R50131,2026-09-07,GB-009,009-15,Changed mind,A,Processed
+R50355,2026-09-08,GB-037,037-08,Damaged in transit,C,Processed
+R50356,2026-09-08,GB-037,037-06,Size/fit issue,A,Processed
+R50626,2026-09-08,GB-064,064-08,Missing accessories,C,Processed
+R50810,2026-09-08,HP-220,HB-10,Changed mind,B,Processed
+R50589,2026-09-08,GB-058,058-13,Performance issue,D,Processed
+R50744,2026-09-08,GB-081,081-11,Defective – not powering on,A,Processed
+R50746,2026-09-08,GB-081,081-13,Size/fit issue,B,Processed
+R50240,2026-09-09,GB-025,025-15,Defective – not powering on,A,Processed
+R50190,2026-09-09,GB-018,018-16,Performance issue,D,Processed
+R50506,2026-09-09,GB-046,046-06,Missing accessories,D,Processed
+R50301,2026-09-09,GB-032,032-06,Size/fit issue,A,Processed
+R50196,2026-09-09,GB-018,018-18,Performance issue,A,Processed
+R50916,2026-09-09,PB-10K,PB-33,Defective – not powering on,A,Processed
+R50411,2026-09-09,GB-043,043-18,Damaged in transit,A,Processed
+R50035,2026-09-09,GB-003,003-11,Damaged in transit,B,Processed
+R50406,2026-09-10,GB-043,043-09,Changed mind,B,Processed
+R50660,2026-09-10,GB-069,069-16,Not as described,A,Processed
+R50093,2026-09-10,GB-005,005-19,Size/fit issue,B,Processed
+R50105,2026-09-10,GB-006,006-04,Not as described,A,Processed
+R50359,2026-09-10,GB-038,038-06,Damaged in transit,C,Processed
+R50551,2026-09-10,GB-050,050-16,Size/fit issue,A,Processed
+R50463,2026-09-10,GB-045,045-12,Performance issue,B,Processed
+R50070,2026-09-10,GB-003,003-15,Damaged in transit,D,Processed
+R50564,2026-09-11,GB-052,052-18,Performance issue,A,Processed
+R50263,2026-09-11,GB-028,028-09,Size/fit issue,B,Processed
+R50505,2026-09-11,GB-046,046-01,Performance issue,B,Processed
+R50737,2026-09-11,GB-081,081-19,Performance issue,A,Processed
+R50057,2026-09-11,GB-003,003-07,Missing accessories,A,Processed
+R50324,2026-09-11,GB-036,036-04,Missing accessories,A,Processed
+R50089,2026-09-11,GB-004,004-15,Damaged in transit,D,Processed
+R50139,2026-09-11,GB-010,010-05,Missing accessories,C,Processed
+R50402,2026-09-11,GB-042,042-06,Missing accessories,C,Processed
+R50106,2026-09-11,GB-006,006-07,Damaged in transit,D,Processed
+R50642,2026-09-11,GB-067,067-17,Damaged in transit,A,Processed
+R50481,2026-09-11,GB-046,046-17,Not as described,C,Processed
+R50344,2026-09-11,GB-037,037-13,Size/fit issue,B,Processed
+R50316,2026-09-12,GB-035,035-08,Damaged in transit,A,Processed
+R50319,2026-09-12,GB-036,036-08,Damaged in transit,A,Processed
+R50380,2026-09-12,GB-041,041-01,Defective – not powering on,A,Processed
+R50887,2026-09-12,PB-10K,PB-33,Performance issue,C,Processed
+R50459,2026-09-12,GB-045,045-09,Damaged in transit,C,Processed
+R50693,2026-09-12,GB-075,075-12,Missing accessories,C,Processed
+R50186,2026-09-12,GB-018,018-18,Performance issue,D,Processed
+R50198,2026-09-12,GB-018,018-01,Defective – not powering on,C,Processed
+R50039,2026-09-12,GB-003,003-10,Not as described,D,Processed
+R50542,2026-09-13,GB-050,050-15,Size/fit issue,B,Processed
+R50047,2026-09-13,GB-003,003-06,Not as described,B,Processed
+R50690,2026-09-13,GB-074,074-15,Not as described,A,Processed
+R50185,2026-09-13,GB-018,018-13,Missing accessories,A,Processed
+R50430,2026-09-13,GB-044,044-01,Size/fit issue,B,Processed
+R50134,2026-09-13,GB-010,010-12,Size/fit issue,A,Processed
+R50375,2026-09-13,GB-041,041-01,Damaged in transit,C,Processed
+R50282,2026-09-13,GB-030,030-02,Not as described,B,Processed
+R50197,2026-09-13,GB-018,018-17,Not as described,D,Processed
+R50647,2026-09-13,GB-067,067-18,Performance issue,A,Processed
+R50628,2026-09-13,GB-064,064-13,Size/fit issue,B,Processed
+R50009,2026-09-13,GB-002,002-19,Not as described,B,Processed
+R50391,2026-09-14,GB-041,041-10,Damaged in transit,A,Processed
+R50351,2026-09-14,GB-037,037-05,Damaged in transit,A,Processed
+R50539,2026-09-14,GB-050,050-03,Damaged in transit,A,Processed
+R50686,2026-09-14,GB-073,073-10,Not as described,C,Processed
+R50526,2026-09-14,GB-049,049-10,Performance issue,B,Processed
+R50046,2026-09-14,GB-003,003-05,Performance issue,D,Processed
+R50491,2026-09-14,GB-046,046-08,Missing accessories,B,Processed
+R50154,2026-09-15,GB-013,013-01,Defective – not powering on,A,Processed
+R50217,2026-09-15,GB-021,021-09,Not as described,A,Processed
+R50436,2026-09-15,GB-044,044-14,Damaged in transit,B,Processed
+R50096,2026-09-15,GB-006,006-08,Changed mind,B,Processed
+R50447,2026-09-15,GB-044,044-15,Size/fit issue,A,Processed
+R50448,2026-09-15,GB-044,044-13,Size/fit issue,B,Processed
+R50220,2026-09-15,GB-021,021-09,Performance issue,B,Processed
+R50616,2026-09-15,GB-063,063-15,Damaged in transit,A,Processed
+R50394,2026-09-15,GB-041,041-10,Size/fit issue,A,Processed
+R50370,2026-09-15,GB-040,040-05,Performance issue,A,Processed
+R50320,2026-09-15,GB-036,036-18,Size/fit issue,A,Processed
+R50130,2026-09-16,GB-009,009-15,Not as described,A,Processed
+R50243,2026-09-16,GB-025,025-08,Size/fit issue,A,Processed
+R50334,2026-09-16,GB-037,037-05,Defective – not powering on,B,Processed
+R50044,2026-09-16,GB-003,003-17,Performance issue,C,Processed
+R50587,2026-09-16,GB-058,058-05,Size/fit issue,D,Processed
+R50429,2026-09-16,GB-043,043-10,Defective – not powering on,B,Processed
+R50058,2026-09-16,GB-003,003-14,Defective – not powering on,C,Processed
+R50620,2026-09-17,GB-063,063-10,Not as described,A,Processed
+R50254,2026-09-17,GB-028,028-07,Not as described,B,Processed
+R50719,2026-09-17,GB-078,078-19,Not as described,B,Processed
+R50135,2026-09-17,GB-010,010-09,Changed mind,C,Processed
+R50497,2026-09-17,GB-046,046-19,Defective – not powering on,D,Processed
+R50377,2026-09-17,GB-041,041-01,Not as described,B,Processed
+R50088,2026-09-17,GB-004,004-09,Performance issue,A,Processed
+R50462,2026-09-17,GB-045,045-04,Missing accessories,C,Processed
+R50576,2026-09-17,GB-054,054-07,Performance issue,B,Processed
+R50553,2026-09-17,GB-050,050-04,Changed mind,B,Processed
+R50601,2026-09-18,GB-060,060-14,Performance issue,C,Processed
+R50531,2026-09-18,GB-049,049-02,Defective – not powering on,C,Processed
+R50102,2026-09-18,GB-006,006-17,Performance issue,B,Processed
+R50532,2026-09-18,GB-050,050-03,Damaged in transit,A,Processed
+R50150,2026-09-18,GB-012,012-10,Not as described,C,Processed
+R50032,2026-09-18,GB-003,003-03,Changed mind,B,Processed
+R50223,2026-09-19,GB-021,021-08,Damaged in transit,A,Processed
+R50028,2026-09-19,GB-003,003-06,Defective – not powering on,A,Processed
+R50268,2026-09-19,GB-029,029-12,Defective – not powering on,B,Processed
+R50727,2026-09-19,GB-078,078-04,Damaged in transit,D,Processed
+R50408,2026-09-19,GB-043,043-03,Changed mind,B,Processed
+R50424,2026-09-19,GB-043,043-18,Performance issue,A,Processed
+R50216,2026-09-19,GB-021,021-02,Missing accessories,A,Processed
+R50511,2026-09-19,GB-046,046-02,Damaged in transit,C,Processed
+R50055,2026-09-19,GB-003,003-06,Missing accessories,C,Processed
+R50420,2026-09-19,GB-043,043-01,Changed mind,A,Processed
+R50673,2026-09-19,GB-072,072-03,Missing accessories,A,Processed
+R50019,2026-09-20,GB-003,003-04,Damaged in transit,C,Processed
+R50702,2026-09-20,GB-076,076-14,Size/fit issue,B,Processed
+R50210,2026-09-20,GB-020,020-14,Size/fit issue,C,Processed
+R50730,2026-09-20,GB-079,079-02,Missing accessories,A,Processed
+R50733,2026-09-20,GB-079,079-16,Performance issue,C,Processed
+R50333,2026-09-20,GB-037,037-04,Defective – not powering on,A,Processed
+R50143,2026-09-21,GB-010,010-06,Size/fit issue,B,Processed
+R50393,2026-09-21,GB-041,041-18,Changed mind,A,Processed
+R50149,2026-09-21,GB-012,012-14,Defective – not powering on,B,Processed
+R50415,2026-09-21,GB-043,043-11,Size/fit issue,C,Processed
+R50010,2026-09-21,GB-002,002-18,Not as described,B,Processed
+R50549,2026-09-21,GB-050,050-06,Damaged in transit,A,Processed
+R50633,2026-09-21,GB-065,065-03,Changed mind,B,Processed
+R50362,2026-09-21,GB-038,038-11,Missing accessories,B,Processed
+R50299,2026-09-21,GB-032,032-03,Defective – not powering on,D,Processed
+R50277,2026-09-22,GB-029,029-19,Missing accessories,B,Processed
+R50208,2026-09-22,GB-018,018-11,Not as described,B,Processed
+R50510,2026-09-22,GB-046,046-15,Performance issue,A,Processed
+R50421,2026-09-22,GB-043,043-02,Changed mind,A,Processed
+R50698,2026-09-22,GB-075,075-02,Defective – not powering on,B,Processed
+R50025,2026-09-22,GB-003,003-05,Defective – not powering on,B,Processed
+R50194,2026-09-22,GB-018,018-03,Not as described,C,Processed
+R50632,2026-09-23,GB-065,065-16,Damaged in transit,A,Processed
+R50509,2026-09-23,GB-046,046-14,Defective – not powering on,D,Processed
+R50703,2026-09-23,GB-078,078-02,Changed mind,A,Processed
+R50274,2026-09-23,GB-029,029-04,Size/fit issue,A,Processed
+R50225,2026-09-23,GB-023,023-10,Size/fit issue,C,Processed
+R50617,2026-09-24,GB-063,063-15,Size/fit issue,D,Processed
+R50215,2026-09-24,GB-020,020-06,Changed mind,B,Processed
+R50495,2026-09-24,GB-046,046-09,Defective – not powering on,A,Processed
+R50123,2026-09-24,GB-008,008-16,Changed mind,A,Processed
+R50683,2026-09-24,GB-073,073-05,Size/fit issue,B,Processed
+R50729,2026-09-24,GB-079,079-04,Performance issue,D,Processed
+R50318,2026-09-25,GB-036,036-13,Defective – not powering on,C,Processed
+R50624,2026-09-25,GB-064,064-11,Defective – not powering on,A,Processed
+R50696,2026-09-25,GB-075,075-12,Defective – not powering on,C,Processed
+R50793,2026-09-25,HP-220,HB-08,Damaged in transit,B,Processed
+R50678,2026-09-25,GB-073,073-13,Defective – not powering on,B,Processed
+R50145,2026-09-26,GB-010,010-06,Not as described,D,Processed
+R50251,2026-09-26,GB-028,028-17,Missing accessories,C,Processed
+R50431,2026-09-26,GB-044,044-02,Size/fit issue,A,Processed
+R50098,2026-09-26,GB-006,006-03,Changed mind,C,Processed
+R50107,2026-09-26,GB-006,006-12,Not as described,D,Processed
+R50674,2026-09-26,GB-072,072-02,Defective – not powering on,A,Processed
+R50361,2026-09-26,GB-038,038-02,Size/fit issue,A,Processed
+R50890,2026-09-26,PB-10K,PB-31,Size/fit issue,A,Processed
+R50595,2026-09-26,GB-058,058-13,Size/fit issue,C,Processed
+R50791,2026-09-27,HP-220,HB-10,Damaged in transit,C,Processed
+R50573,2026-09-27,GB-053,053-10,Damaged in transit,B,Processed
+R50598,2026-09-27,GB-059,059-16,Missing accessories,A,Processed
+R50480,2026-09-27,GB-046,046-08,Changed mind,A,Processed
+R50001,2026-09-27,GB-001,001-05,Performance issue,A,Processed
+R50918,2026-09-27,PB-10K,PB-31,Damaged in transit,A,Processed
+R50148,2026-09-27,GB-012,012-09,Missing accessories,D,Processed
+R50112,2026-09-27,GB-006,006-17,Defective – not powering on,B,Processed
+R50066,2026-09-27,GB-003,003-07,Changed mind,A,Processed
+R50024,2026-09-27,GB-003,003-07,Missing accessories,B,Processed
+R50245,2026-09-28,GB-026,026-02,Not as described,A,Processed
+R50466,2026-09-28,GB-046,046-03,Defective – not powering on,A,Processed
+R50384,2026-09-28,GB-041,041-16,Damaged in transit,B,Processed
+R50172,2026-09-28,GB-014,014-01,Not as described,B,Processed
+R50585,2026-09-28,GB-058,058-03,Not as described,A,Processed
+R50602,2026-09-28,GB-060,060-15,Missing accessories,B,Processed
+R50606,2026-09-28,GB-060,060-14,Not as described,C,Processed
+R50120,2026-09-28,GB-008,008-05,Missing accessories,A,Processed
+R50618,2026-09-28,GB-063,063-12,Size/fit issue,C,Processed
+R50302,2026-09-28,GB-032,032-14,Missing accessories,B,Processed
+R50050,2026-09-28,GB-003,003-14,Performance issue,A,Processed
+R50640,2026-09-28,GB-067,067-01,Size/fit issue,D,Processed
+R50325,2026-09-28,GB-036,036-02,Size/fit issue,A,Processed
+R50817,2026-09-28,HP-220,HB-07,Changed mind,C,Processed
+R50795,2026-09-28,HP-220,HB-07,Missing accessories,A,Processed
+R50905,2026-09-28,PB-10K,PB-33,Not as described,C,Processed
+R50579,2026-09-29,GB-056,056-08,Not as described,A,Processed
+R50898,2026-09-29,PB-10K,PB-32,Performance issue,C,Processed
+R50527,2026-09-29,GB-049,049-01,Missing accessories,B,Processed
+R50202,2026-09-29,GB-018,018-19,Damaged in transit,A,Processed
+R50357,2026-09-29,GB-038,038-09,Defective – not powering on,B,Processed
+R50381,2026-09-29,GB-041,041-14,Not as described,A,Processed
+R50591,2026-09-29,GB-058,058-19,Defective – not powering on,A,Processed
+R50322,2026-09-29,GB-036,036-09,Performance issue,C,Processed
+R50075,2026-09-29,GB-003,003-02,Size/fit issue,C,Processed
+R50060,2026-09-29,GB-003,003-10,Performance issue,D,Processed
+R50040,2026-09-29,GB-003,003-12,Not as described,B,Processed
+R50246,2026-09-29,GB-026,026-16,Damaged in transit,B,Processed
+R50250,2026-09-29,GB-028,028-03,Defective – not powering on,A,Processed
+R50473,2026-09-29,GB-046,046-05,Performance issue,C,Processed
+R50231,2026-09-30,GB-023,023-03,Missing accessories,A,Processed
+R50234,2026-09-30,GB-024,024-13,Missing accessories,B,Processed
+R50176,2026-09-30,GB-016,016-06,Missing accessories,A,Processed
+R50783,2026-09-30,HP-220,HB-09,Damaged in transit,B,Awaiting decision
+R50781,2026-09-30,HP-220,HB-09,Size/fit issue,B,Awaiting decision
+R50294,2026-09-30,GB-032,032-19,Not as described,A,Processed
+R50016,2026-09-30,GB-003,003-10,Missing accessories,B,Processed
+R50307,2026-09-30,GB-034,034-06,Damaged in transit,C,Processed
+R50645,2026-09-30,GB-067,067-16,Not as described,B,Processed
+R50637,2026-09-30,GB-066,066-18,Defective – not powering on,A,Processed
+R50270,2026-09-30,GB-029,029-11,Missing accessories,D,Processed
+R50799,2026-09-30,HP-220,HB-10,Size/fit issue,A,Processed
+R50337,2026-09-30,GB-037,037-03,Missing accessories,A,Processed
+R50248,2026-10-01,GB-027,027-11,Missing accessories,A,Processed
+R50442,2026-10-01,GB-044,044-06,Size/fit issue,B,Processed
+R50465,2026-10-01,GB-045,045-14,Changed mind,A,Processed
+R50902,2026-10-01,PB-10K,PB-31,Not as described,B,Processed
+R50664,2026-10-01,GB-070,070-14,Damaged in transit,C,Processed
+R50306,2026-10-01,GB-034,034-05,Size/fit issue,A,Processed
+R50485,2026-10-01,GB-046,046-17,Performance issue,A,Processed
+R50092,2026-10-01,GB-005,005-09,Damaged in transit,A,Processed
+R50486,2026-10-02,GB-046,046-13,Not as described,A,Processed
+R50778,2026-10-02,HP-220,HB-09,Missing accessories,B,Awaiting decision
+R50260,2026-10-02,GB-028,028-01,Performance issue,A,Processed
+R50773,2026-10-02,HP-220,HB-09,Defective – left earcup no sound,B,Awaiting decision
+R50340,2026-10-02,GB-037,037-19,Changed mind,D,Processed
+R50160,2026-10-02,GB-013,013-01,Not as described,A,Processed
+R50082,2026-10-02,GB-003,003-01,Size/fit issue,A,Processed
+R50535,2026-10-02,GB-050,050-06,Changed mind,A,Processed
+R50657,2026-10-02,GB-069,069-12,Missing accessories,B,Processed
+R50815,2026-10-02,HP-220,HB-08,Damaged in transit,B,Processed
+R50138,2026-10-02,GB-010,010-12,Changed mind,B,Processed
+R50224,2026-10-02,GB-022,022-14,Size/fit issue,B,Processed
+R50458,2026-10-03,GB-045,045-16,Damaged in transit,B,Processed
+R50104,2026-10-03,GB-006,006-05,Damaged in transit,C,Processed
+R50015,2026-10-03,GB-003,003-14,Damaged in transit,A,Processed
+R50797,2026-10-03,HP-220,HB-10,Defective – not powering on,A,Processed
+R50327,2026-10-03,GB-036,036-12,Changed mind,B,Processed
+R50329,2026-10-03,GB-036,036-09,Defective – not powering on,D,Processed
+R50278,2026-10-03,GB-029,029-03,Size/fit issue,A,Processed
+R50162,2026-10-04,GB-013,013-04,Performance issue,B,Processed
+R50784,2026-10-04,HP-220,HB-09,Changed mind,B,Awaiting decision
+R50518,2026-10-04,GB-048,048-12,Damaged in transit,A,Processed
+R50056,2026-10-04,GB-003,003-10,Defective – not powering on,A,Processed
+R50609,2026-10-04,GB-061,061-01,Damaged in transit,B,Processed
+R50742,2026-10-04,GB-081,081-01,Changed mind,A,Processed
+R50297,2026-10-04,GB-032,032-03,Not as described,A,Processed
+R50201,2026-10-04,GB-018,018-04,Damaged in transit,B,Processed
+R50368,2026-10-04,GB-040,040-02,Changed mind,B,Processed
+R50048,2026-10-04,GB-003,003-10,Performance issue,D,Processed
+R50499,2026-10-04,GB-046,046-01,Damaged in transit,D,Processed
+R50681,2026-10-04,GB-073,073-11,Missing accessories,B,Processed
+R50546,2026-10-05,GB-050,050-09,Changed mind,C,Processed
+R50697,2026-10-05,GB-075,075-06,Changed mind,A,Processed
+R50348,2026-10-05,GB-037,037-01,Defective – not powering on,D,Processed
+R50565,2026-10-05,GB-052,052-06,Damaged in transit,A,Processed
+R50800,2026-10-05,HP-220,HB-10,Damaged in transit,C,Processed
+R50184,2026-10-05,GB-018,018-18,Not as described,A,Processed
+R50124,2026-10-05,GB-009,009-18,Missing accessories,B,Processed
+R50613,2026-10-06,GB-062,062-03,Missing accessories,A,Processed
+R50603,2026-10-06,GB-060,060-07,Size/fit issue,A,Processed
+R50798,2026-10-06,HP-220,HB-08,Missing accessories,A,Processed
+R50206,2026-10-06,GB-018,018-11,Missing accessories,A,Processed
+R50684,2026-10-06,GB-073,073-17,Performance issue,B,Processed
+R50787,2026-10-06,HP-220,HB-09,Performance issue,B,Awaiting decision
+R50271,2026-10-06,GB-029,029-09,Changed mind,A,Processed
+R50748,2026-10-06,GB-081,081-02,Changed mind,B,Processed
+R50236,2026-10-06,GB-024,024-02,Missing accessories,B,Processed
+R50731,2026-10-07,GB-079,079-01,Defective – not powering on,C,Processed
+R50712,2026-10-07,GB-078,078-18,Damaged in transit,B,Processed
+R50903,2026-10-07,PB-10K,PB-31,Not as described,A,Processed
+R50782,2026-10-07,HP-220,HB-09,Changed mind,B,Awaiting decision
+R50519,2026-10-07,GB-048,048-16,Defective – not powering on,B,Processed
+R50413,2026-10-07,GB-043,043-11,Defective – not powering on,D,Processed
+R50476,2026-10-08,GB-046,046-11,Damaged in transit,A,Processed
+R50401,2026-10-08,GB-042,042-19,Damaged in transit,A,Processed
+R50272,2026-10-08,GB-029,029-06,Performance issue,A,Processed
+R50156,2026-10-08,GB-013,013-09,Damaged in transit,A,Processed
+R50621,2026-10-08,GB-064,064-19,Not as described,A,Processed
+R50077,2026-10-08,GB-003,003-09,Size/fit issue,C,Processed
+R50021,2026-10-08,GB-003,003-05,Changed mind,C,Processed
+R50227,2026-10-08,GB-023,023-09,Defective – not powering on,A,Processed
+R50883,2026-10-08,SPK-OLD,SP-02,Changed mind,B,In refurbishment queue
+R50775,2026-10-09,HP-220,HB-09,Defective – left earcup no sound,B,Awaiting decision
+R50489,2026-10-09,GB-046,046-05,Performance issue,D,Processed
+R50780,2026-10-09,HP-220,HB-09,Defective – not powering on,B,Awaiting decision
+R50045,2026-10-09,GB-003,003-10,Size/fit issue,B,Processed
+R50792,2026-10-09,HP-220,HB-10,Damaged in transit,B,Processed
+R50020,2026-10-09,GB-003,003-06,Size/fit issue,A,Processed
+R50774,2026-10-09,HP-220,HB-09,Defective – left earcup no sound,B,Awaiting decision
+R50049,2026-10-09,GB-003,003-08,Size/fit issue,A,Processed
+R50273,2026-10-09,GB-029,029-14,Damaged in transit,B,Processed
+R50412,2026-10-09,GB-043,043-15,Size/fit issue,A,Processed
+R50064,2026-10-09,GB-003,003-02,Missing accessories,B,Processed
+R50084,2026-10-09,GB-003,003-07,Missing accessories,C,Processed
+R50881,2026-10-09,SPK-OLD,SP-02,Missing accessories,C,In refurbishment queue
+R50669,2026-10-09,GB-071,071-06,Defective – not powering on,C,Processed
+R50386,2026-10-10,GB-041,041-18,Defective – not powering on,C,Processed
+R50399,2026-10-10,GB-042,042-14,Missing accessories,D,Processed
+R50178,2026-10-10,GB-016,016-17,Changed mind,C,Processed
+R50871,2026-10-10,SPK-OLD,SP-02,Defective – not powering on,B,In refurbishment queue
+R50788,2026-10-10,HP-220,HB-09,Performance issue,B,Awaiting decision
+R50866,2026-10-10,SPK-OLD,SP-02,Performance issue,B,In refurbishment queue
+R50074,2026-10-10,GB-003,003-19,Defective – not powering on,C,Processed
+R50555,2026-10-10,GB-051,051-08,Not as described,A,Processed
+R50723,2026-10-10,GB-078,078-12,Size/fit issue,A,Processed
+R50529,2026-10-10,GB-049,049-03,Not as described,B,Processed
+R50313,2026-10-11,GB-035,035-10,Damaged in transit,B,Processed
+R50157,2026-10-11,GB-013,013-15,Defective – not powering on,C,Processed
+R50073,2026-10-11,GB-003,003-03,Size/fit issue,A,Processed
+R50577,2026-10-11,GB-054,054-18,Defective – not powering on,A,Processed
+R50537,2026-10-11,GB-050,050-19,Damaged in transit,C,Processed
+R50722,2026-10-11,GB-078,078-01,Not as described,B,Processed
+R50786,2026-10-11,HP-220,HB-09,Changed mind,B,Awaiting decision
+R50600,2026-10-11,GB-060,060-09,Size/fit issue,D,Processed
+R50383,2026-10-11,GB-041,041-13,Size/fit issue,B,Processed
+R50779,2026-10-11,HP-220,HB-09,Not as described,B,Awaiting decision
+R50159,2026-10-11,GB-013,013-16,Defective – not powering on,A,Processed
+R50126,2026-10-11,GB-009,009-03,Defective – not powering on,B,Processed
+R50440,2026-10-11,GB-044,044-15,Changed mind,D,Processed
+R50477,2026-10-11,GB-046,046-09,Performance issue,C,Processed
+R50418,2026-10-11,GB-043,043-15,Changed mind,B,Processed
+R50026,2026-10-11,GB-003,003-13,Damaged in transit,B,Processed
+R50257,2026-10-12,GB-028,028-19,Missing accessories,A,Processed
+R50547,2026-10-12,GB-050,050-15,Missing accessories,A,Processed
+R50709,2026-10-12,GB-078,078-08,Missing accessories,B,Processed
+R50296,2026-10-12,GB-032,032-14,Changed mind,B,Processed
+R50153,2026-10-12,GB-012,012-05,Not as described,C,Processed
+R50416,2026-10-12,GB-043,043-11,Missing accessories,B,Processed
+R50235,2026-10-12,GB-024,024-11,Not as described,A,Processed
+R50151,2026-10-12,GB-012,012-16,Changed mind,A,Processed
+R50776,2026-10-12,HP-220,HB-09,Defective – left earcup no sound,B,Awaiting decision
+R50508,2026-10-12,GB-046,046-03,Performance issue,B,Processed
+R50732,2026-10-12,GB-079,079-01,Defective – not powering on,B,Processed
+R50146,2026-10-12,GB-011,011-06,Performance issue,C,Processed
+R50006,2026-10-12,GB-001,001-19,Missing accessories,A,Processed
+R50474,2026-10-12,GB-046,046-17,Size/fit issue,D,Processed
+R50614,2026-10-12,GB-062,062-09,Not as described,D,Processed
+R50915,2026-10-12,PB-10K,PB-33,Changed mind,B,Processed
+R50878,2026-10-12,SPK-OLD,SP-02,Damaged in transit,C,In refurbishment queue
+R50679,2026-10-13,GB-073,073-12,Damaged in transit,A,Processed
+R50548,2026-10-13,GB-050,050-16,Missing accessories,C,Processed
+R50868,2026-10-13,SPK-OLD,SP-02,Missing accessories,B,In refurbishment queue
+R50872,2026-10-13,SPK-OLD,SP-02,Defective – not powering on,B,In refurbishment queue
+R50517,2026-10-13,GB-047,047-03,Damaged in transit,A,Processed
+R50685,2026-10-13,GB-073,073-17,Damaged in transit,B,Processed
+R50349,2026-10-13,GB-037,037-19,Not as described,C,Processed
+R50252,2026-10-13,GB-028,028-12,Size/fit issue,B,Processed
+R50501,2026-10-13,GB-046,046-08,Size/fit issue,D,Processed
+R50521,2026-10-13,GB-048,048-11,Changed mind,A,Processed
+R50777,2026-10-13,HP-220,HB-09,Defective – not powering on,B,Awaiting decision
+R50718,2026-10-13,GB-078,078-09,Defective – not powering on,B,Processed
+R50802,2026-10-13,HP-220,HB-10,Changed mind,B,Processed
+R50785,2026-10-13,HP-220,HB-09,Size/fit issue,B,Awaiting decision
+R50487,2026-10-13,GB-046,046-15,Damaged in transit,A,Processed
+R50907,2026-10-13,PB-10K,PB-31,Not as described,A,Processed
+R50895,2026-10-13,PB-10K,PB-33,Size/fit issue,A,Processed
+R50376,2026-10-14,GB-041,041-09,Defective – not powering on,D,Processed
+R50713,2026-10-14,GB-078,078-18,Damaged in transit,B,Processed
+R50692,2026-10-14,GB-074,074-05,Changed mind,D,Processed
+R50451,2026-10-14,GB-045,045-10,Performance issue,A,Processed
+R50290,2026-10-14,GB-032,032-11,Missing accessories,C,Processed
+R50069,2026-10-14,GB-003,003-07,Defective – not powering on,C,Processed
+R50716,2026-10-14,GB-078,078-12,Missing accessories,B,Processed
+R50812,2026-10-14,HP-220,HB-10,Performance issue,C,Processed
+R50809,2026-10-14,HP-220,HB-07,Damaged in transit,B,Processed
+R50041,2026-10-14,GB-003,003-08,Changed mind,B,Processed
+R50560,2026-10-15,GB-051,051-08,Missing accessories,B,Processed
+R50672,2026-10-15,GB-072,072-11,Changed mind,A,Processed
+R50081,2026-10-15,GB-003,003-09,Defective – not powering on,B,Processed
+R50155,2026-10-15,GB-013,013-04,Missing accessories,A,Processed
+R50300,2026-10-15,GB-032,032-14,Changed mind,A,Processed
+R50625,2026-10-15,GB-064,064-06,Defective – not powering on,C,Processed
+R50478,2026-10-15,GB-046,046-06,Performance issue,B,Processed
+R50059,2026-10-15,GB-003,003-13,Not as described,A,Processed
+R50483,2026-10-15,GB-046,046-01,Missing accessories,C,Processed
+R50288,2026-10-15,GB-032,032-03,Missing accessories,B,Processed
+R50193,2026-10-15,GB-018,018-01,Missing accessories,A,Processed
+R50195,2026-10-16,GB-018,018-07,Not as described,B,Processed
+R50113,2026-10-16,GB-007,007-12,Not as described,A,Processed
+R50811,2026-10-16,HP-220,HB-08,Changed mind,B,Processed
+R50658,2026-10-16,GB-069,069-11,Size/fit issue,A,Processed
+R50460,2026-10-16,GB-045,045-06,Performance issue,A,Processed
+R50353,2026-10-16,GB-037,037-06,Not as described,A,Processed
+R50864,2026-10-16,SPK-OLD,SP-02,Not as described,C,In refurbishment queue
+R50520,2026-10-16,GB-048,048-17,Changed mind,A,Processed
+R50275,2026-10-16,GB-029,029-08,Size/fit issue,A,Processed
+R50352,2026-10-17,GB-037,037-12,Defective – not powering on,A,Processed
+R50639,2026-10-17,GB-067,067-09,Not as described,B,Processed
+R50192,2026-10-17,GB-018,018-07,Performance issue,B,Processed
+R50335,2026-10-17,GB-037,037-16,Missing accessories,A,Processed
+R50409,2026-10-17,GB-043,043-09,Performance issue,B,Processed
+R50482,2026-10-17,GB-046,046-08,Damaged in transit,D,Processed
+R50326,2026-10-17,GB-036,036-05,Missing accessories,C,Processed
+R50209,2026-10-17,GB-018,018-11,Damaged in transit,D,Processed
+R50398,2026-10-17,GB-042,042-01,Size/fit issue,D,Processed
+R50002,2026-10-18,GB-001,001-08,Size/fit issue,C,Processed
+R50545,2026-10-18,GB-050,050-06,Size/fit issue,C,Processed
+R50816,2026-10-18,HP-220,HB-10,Defective – not powering on,B,Processed
+R50304,2026-10-18,GB-033,033-02,Changed mind,B,Processed
+R50238,2026-10-18,GB-025,025-01,Missing accessories,A,Processed
+R50407,2026-10-18,GB-043,043-02,Damaged in transit,D,Processed
+R50438,2026-10-18,GB-044,044-14,Performance issue,C,Processed
+R50314,2026-10-18,GB-035,035-14,Missing accessories,A,Processed
+R50876,2026-10-18,SPK-OLD,SP-02,Size/fit issue,B,In refurbishment queue
+R50484,2026-10-18,GB-046,046-12,Changed mind,A,Processed
+R50343,2026-10-18,GB-037,037-02,Missing accessories,C,Processed
+R50759,2026-10-19,HP-220,HB-09,Defective – left earcup no sound,B,Awaiting decision
+R50769,2026-10-19,HP-220,HB-09,Defective – left earcup no sound,B,Awaiting decision
+R50750,2026-10-19,HP-220,HB-09,Defective – left earcup no sound,B,Awaiting decision
+R50710,2026-10-19,GB-078,078-18,Performance issue,C,Processed
+R50663,2026-10-19,GB-070,070-03,Not as described,B,Processed
+R50397,2026-10-19,GB-042,042-14,Damaged in transit,B,Processed
+R50309,2026-10-19,GB-034,034-16,Not as described,C,Processed
+R50373,2026-10-19,GB-040,040-16,Missing accessories,C,Processed
+R50395,2026-10-19,GB-042,042-08,Changed mind,A,Processed
+R50865,2026-10-19,SPK-OLD,SP-02,Defective – not powering on,C,In refurbishment queue
+R50023,2026-10-19,GB-003,003-01,Damaged in transit,B,Processed
+R50119,2026-10-19,GB-008,008-09,Missing accessories,D,Processed
+R50054,2026-10-19,GB-003,003-15,Size/fit issue,C,Processed
+R50062,2026-10-19,GB-003,003-10,Defective – not powering on,B,Processed
+R50541,2026-10-19,GB-050,050-09,Performance issue,A,Processed
+R50091,2026-10-20,GB-004,004-06,Not as described,B,Processed
+R50841,2026-10-20,MX-750,MX-14,Defective – motor noise,C,Awaiting decision
+R50840,2026-10-20,MX-750,MX-14,Defective – motor noise,C,Awaiting decision
+R50706,2026-10-20,GB-078,078-04,Damaged in transit,C,Processed
+R50838,2026-10-20,MX-750,MX-14,Defective – motor noise,C,Awaiting decision
+R50704,2026-10-20,GB-078,078-01,Damaged in transit,A,Processed
+R50836,2026-10-20,MX-750,MX-14,Defective – motor noise,C,Awaiting decision
+R50845,2026-10-20,MX-750,MX-14,Defective – motor noise,C,Awaiting decision
+R50846,2026-10-20,MX-750,MX-14,Defective – motor noise,C,Awaiting decision
+R50695,2026-10-20,GB-075,075-10,Not as described,A,Processed
+R50847,2026-10-20,MX-750,MX-14,Defective – motor noise,C,Awaiting decision
+R50694,2026-10-20,GB-075,075-19,Size/fit issue,A,Processed
+R50835,2026-10-20,MX-750,MX-14,Defective – motor noise,C,Awaiting decision
+R50837,2026-10-20,MX-750,MX-14,Defective – motor noise,C,Awaiting decision
+R50834,2026-10-20,MX-750,MX-14,Defective – motor noise,C,Awaiting decision
+R50848,2026-10-20,MX-750,MX-14,Defective – motor noise,C,Awaiting decision
+R50833,2026-10-20,MX-750,MX-14,Defective – motor noise,C,Awaiting decision
+R50844,2026-10-20,MX-750,MX-14,Defective – motor noise,C,Awaiting decision
+R50832,2026-10-20,MX-750,MX-14,Defective – motor noise,C,Awaiting decision
+R50831,2026-10-20,MX-750,MX-14,Defective – motor noise,C,Awaiting decision
+R50842,2026-10-20,MX-750,MX-14,Defective – motor noise,C,Awaiting decision
+R50818,2026-10-20,HP-220,HB-10,Changed mind,B,Processed
+R50839,2026-10-20,MX-750,MX-14,Defective – motor noise,C,Awaiting decision
+R50843,2026-10-20,MX-750,MX-14,Defective – motor noise,C,Awaiting decision
+R50659,2026-10-20,GB-069,069-12,Performance issue,B,Processed
+R50503,2026-10-20,GB-046,046-06,Missing accessories,B,Processed
+R50435,2026-10-20,GB-044,044-14,Missing accessories,B,Processed
+R50165,2026-10-20,GB-013,013-10,Defective – not powering on,C,Processed
+R50530,2026-10-20,GB-049,049-04,Performance issue,A,Processed
+R50285,2026-10-21,GB-031,031-07,Changed mind,C,Processed
+R50830,2026-10-21,LT-14A,LT-02,Changed mind,A,Awaiting decision
+R50829,2026-10-21,LT-14A,LT-03,Changed mind,A,Awaiting decision
+R50828,2026-10-21,LT-14A,LT-03,Changed mind,A,Awaiting decision
+R50827,2026-10-21,LT-14A,LT-03,Changed mind,A,Awaiting decision
+R50826,2026-10-21,LT-14A,LT-03,Changed mind,A,Awaiting decision
+R50825,2026-10-21,LT-14A,LT-02,Changed mind,A,Awaiting decision
+R50824,2026-10-21,LT-14A,LT-02,Changed mind,A,Awaiting decision
+R50823,2026-10-21,LT-14A,LT-01,Changed mind,A,Awaiting decision
+R50822,2026-10-21,LT-14A,LT-01,Changed mind,A,Awaiting decision
+R50821,2026-10-21,LT-14A,LT-01,Changed mind,A,Awaiting decision
+R50456,2026-10-21,GB-045,045-05,Performance issue,A,Processed
+R50076,2026-10-21,GB-003,003-07,Not as described,B,Processed
+R50500,2026-10-21,GB-046,046-09,Damaged in transit,C,Processed
+R50820,2026-10-21,LT-14A,LT-03,Changed mind,A,Awaiting decision
+R50312,2026-10-21,GB-035,035-12,Missing accessories,B,Processed
+R50434,2026-10-21,GB-044,044-16,Damaged in transit,B,Processed
+R50203,2026-10-21,GB-018,018-10,Damaged in transit,A,Processed
+R50522,2026-10-21,GB-048,048-04,Missing accessories,B,Processed
+R50556,2026-10-21,GB-051,051-01,Defective – not powering on,A,Processed
+R50914,2026-10-21,PB-10K,PB-31,Missing accessories,A,Processed
+R50336,2026-10-21,GB-037,037-19,Changed mind,A,Processed
+R50819,2026-10-21,LT-14A,LT-03,Changed mind,A,Awaiting decision
+R50033,2026-10-22,GB-003,003-05,Performance issue,A,Processed
+R50578,2026-10-22,GB-055,055-11,Defective – not powering on,B,Processed
+R50166,2026-10-22,GB-013,013-03,Size/fit issue,A,Processed
+R50323,2026-10-22,GB-036,036-10,Missing accessories,D,Processed
+R50688,2026-10-22,GB-074,074-07,Performance issue,C,Processed
+R50568,2026-10-22,GB-052,052-01,Size/fit issue,A,Processed
+R50897,2026-10-22,PB-10K,PB-31,Damaged in transit,B,Processed
+R50446,2026-10-22,GB-044,044-03,Not as described,C,Processed
+R50094,2026-10-23,GB-005,005-05,Performance issue,A,Processed
+R50453,2026-10-23,GB-045,045-14,Damaged in transit,B,Processed
+R50806,2026-10-23,HP-220,HB-08,Damaged in transit,A,Processed
+R50912,2026-10-23,PB-10K,PB-33,Performance issue,B,Processed
+R50635,2026-10-23,GB-066,066-16,Not as described,B,Processed
+R50707,2026-10-23,GB-078,078-18,Performance issue,A,Processed
+R50226,2026-10-23,GB-023,023-06,Missing accessories,B,Processed
+R50790,2026-10-23,HP-220,HB-07,Not as described,C,Processed
+R50761,2026-10-23,HP-220,HB-09,Defective – left earcup no sound,B,Awaiting decision
+R50754,2026-10-23,HP-220,HB-09,Defective – left earcup no sound,B,Awaiting decision
+R50734,2026-10-23,GB-079,079-13,Defective – not powering on,A,Processed
+R50445,2026-10-23,GB-044,044-09,Not as described,B,Processed
+R50766,2026-10-23,HP-220,HB-09,Defective – left earcup no sound,B,Awaiting decision
+R50888,2026-10-24,PB-10K,PB-31,Performance issue,A,Processed
+R50917,2026-10-24,PB-10K,PB-33,Missing accessories,B,Processed
+R50900,2026-10-24,PB-10K,PB-32,Changed mind,B,Processed
+R50909,2026-10-24,PB-10K,PB-33,Performance issue,B,Processed
+R50404,2026-10-24,GB-043,043-05,Defective – not powering on,C,Processed
+R50736,2026-10-24,GB-081,081-18,Changed mind,B,Processed
+R50665,2026-10-24,GB-070,070-09,Missing accessories,B,Processed
+R50622,2026-10-24,GB-064,064-18,Performance issue,C,Processed
+R50771,2026-10-24,HP-220,HB-09,Defective – left earcup no sound,B,Awaiting decision
+R50213,2026-10-24,GB-020,020-16,Damaged in transit,B,Processed
+R50221,2026-10-24,GB-021,021-19,Performance issue,B,Processed
+R50286,2026-10-24,GB-031,031-10,Missing accessories,D,Processed
+R50100,2026-10-24,GB-006,006-08,Changed mind,C,Processed
+R50594,2026-10-24,GB-058,058-14,Defective – not powering on,C,Processed
+R50749,2026-10-25,HP-220,HB-09,Defective – left earcup no sound,B,Awaiting decision
+R50758,2026-10-25,HP-220,HB-09,Defective – left earcup no sound,B,Awaiting decision
+R50007,2026-10-25,GB-002,002-05,Changed mind,C,Processed
+R50452,2026-10-25,GB-045,045-12,Damaged in transit,B,Processed
+R50911,2026-10-25,PB-10K,PB-33,Missing accessories,B,Processed
+R50389,2026-10-25,GB-041,041-12,Missing accessories,B,Processed
+R50199,2026-10-25,GB-018,018-16,Performance issue,B,Processed
+R50885,2026-10-25,SPK-OLD,SP-02,Not as described,B,In refurbishment queue
+R50763,2026-10-25,HP-220,HB-09,Defective – left earcup no sound,B,Awaiting decision
+R50641,2026-10-25,GB-067,067-11,Damaged in transit,B,Processed
+R50638,2026-10-25,GB-066,066-18,Not as described,B,Processed
+R50295,2026-10-25,GB-032,032-10,Changed mind,B,Processed
+R50668,2026-10-25,GB-071,071-14,Damaged in transit,B,Processed
+R50612,2026-10-26,GB-062,062-06,Defective – not powering on,A,Processed
+R50086,2026-10-26,GB-003,003-06,Changed mind,A,Processed
+R50410,2026-10-26,GB-043,043-15,Performance issue,D,Processed
+R50031,2026-10-26,GB-003,003-02,Changed mind,B,Processed
+R50262,2026-10-26,GB-028,028-17,Size/fit issue,B,Processed
+R50536,2026-10-26,GB-050,050-15,Not as described,D,Processed
+R50303,2026-10-26,GB-033,033-06,Changed mind,A,Processed
+R50022,2026-10-27,GB-003,003-14,Missing accessories,B,Processed
+R50629,2026-10-27,GB-064,064-19,Not as described,A,Processed
+R50279,2026-10-27,GB-029,029-05,Defective – not powering on,C,Processed
+R50292,2026-10-27,GB-032,032-16,Damaged in transit,A,Processed
+R50770,2026-10-27,HP-220,HB-09,Defective – left earcup no sound,B,Awaiting decision
+R50110,2026-10-27,GB-006,006-05,Missing accessories,B,Processed
+R50101,2026-10-27,GB-006,006-16,Missing accessories,B,Processed
+R50608,2026-10-27,GB-061,061-15,Not as described,C,Processed
+R50328,2026-10-27,GB-036,036-04,Size/fit issue,C,Processed
+R50385,2026-10-27,GB-041,041-12,Size/fit issue,A,Processed
+R50807,2026-10-27,HP-220,HB-07,Changed mind,B,Processed
+R50229,2026-10-28,GB-023,023-13,Performance issue,B,Processed
+R50745,2026-10-28,GB-081,081-05,Defective – not powering on,B,Processed
+R50586,2026-10-28,GB-058,058-03,Changed mind,A,Processed
+R50726,2026-10-28,GB-078,078-04,Size/fit issue,A,Processed
+R50387,2026-10-28,GB-041,041-12,Changed mind,A,Processed
+R50378,2026-10-28,GB-041,041-02,Missing accessories,B,Processed
+R50038,2026-10-28,GB-003,003-06,Changed mind,B,Processed
+R50423,2026-10-28,GB-043,043-18,Changed mind,B,Processed
+R50610,2026-10-28,GB-062,062-01,Changed mind,B,Processed
+R50079,2026-10-28,GB-003,003-07,Not as described,C,Processed
+R50908,2026-10-28,PB-10K,PB-33,Performance issue,C,Processed
+R50441,2026-10-28,GB-044,044-11,Performance issue,A,Processed
+R50676,2026-10-28,GB-073,073-04,Damaged in transit,B,Processed
+R50363,2026-10-28,GB-038,038-08,Missing accessories,B,Processed
+R50030,2026-10-29,GB-003,003-13,Performance issue,B,Processed
+R50188,2026-10-29,GB-018,018-16,Size/fit issue,B,Processed
+R50261,2026-10-29,GB-028,028-18,Size/fit issue,A,Processed
+R50365,2026-10-29,GB-039,039-06,Not as described,D,Processed
+R50422,2026-10-29,GB-043,043-01,Performance issue,B,Processed
+R50129,2026-10-29,GB-009,009-05,Damaged in transit,C,Processed
+R50867,2026-10-29,SPK-OLD,SP-02,Defective – not powering on,B,In refurbishment queue
+R50174,2026-10-29,GB-014,014-08,Not as described,C,Processed
+R50396,2026-10-29,GB-042,042-03,Changed mind,C,Processed
+R50801,2026-10-29,HP-220,HB-08,Performance issue,A,Processed
+R50078,2026-10-29,GB-003,003-09,Performance issue,A,Processed
+R50170,2026-10-29,GB-013,013-14,Damaged in transit,B,Processed
+R50341,2026-10-30,GB-037,037-16,Damaged in transit,D,Processed
+R50752,2026-10-30,HP-220,HB-09,Defective – left earcup no sound,B,Awaiting decision
+R50117,2026-10-30,GB-007,007-07,Damaged in transit,A,Processed
+R50604,2026-10-30,GB-060,060-08,Defective – not powering on,A,Processed
+R50455,2026-10-30,GB-045,045-06,Size/fit issue,B,Processed
+R50036,2026-10-30,GB-003,003-03,Missing accessories,B,Processed
+R50493,2026-10-30,GB-046,046-14,Not as described,C,Processed
+R50464,2026-10-30,GB-045,045-02,Size/fit issue,B,Processed
+R50321,2026-10-30,GB-036,036-18,Size/fit issue,D,Processed
+R50080,2026-10-30,GB-003,003-09,Performance issue,D,Processed
+R50071,2026-10-31,GB-003,003-06,Not as described,C,Processed
+R50494,2026-10-31,GB-046,046-07,Not as described,A,Processed
+R50711,2026-10-31,GB-078,078-08,Damaged in transit,A,Processed
+R50753,2026-10-31,HP-220,HB-09,Defective – left earcup no sound,B,Awaiting decision
+R50751,2026-10-31,HP-220,HB-09,Defective – left earcup no sound,B,Awaiting decision
+R50342,2026-10-31,GB-037,037-09,Defective – not powering on,C,Processed
+R50789,2026-10-31,HP-220,HB-10,Defective – not powering on,A,Processed
+R50218,2026-10-31,GB-021,021-13,Damaged in transit,C,Processed
+R50214,2026-11-01,GB-020,020-10,Defective – not powering on,A,Processed
+R50894,2026-11-01,PB-10K,PB-33,Damaged in transit,C,Processed
+R50877,2026-11-01,SPK-OLD,SP-02,Defective – not powering on,C,In refurbishment queue
+R50886,2026-11-01,TRP-01,TR-01,Not as described,B,Awaiting decision
+R50512,2026-11-01,GB-046,046-16,Size/fit issue,A,Processed
+R50623,2026-11-01,GB-064,064-10,Size/fit issue,B,Processed
+R50559,2026-11-01,GB-051,051-15,Missing accessories,A,Processed
+R50457,2026-11-01,GB-045,045-15,Not as described,B,Processed
+R50875,2026-11-01,SPK-OLD,SP-02,Changed mind,B,In refurbishment queue
+R50259,2026-11-02,GB-028,028-07,Size/fit issue,A,Processed
+R50575,2026-11-02,GB-054,054-17,Changed mind,A,Processed
+R50242,2026-11-02,GB-025,025-17,Defective – not powering on,C,Processed
+R50765,2026-11-02,HP-220,HB-09,Defective – left earcup no sound,B,Awaiting decision
+R50061,2026-11-02,GB-003,003-13,Damaged in transit,A,Processed
+R50163,2026-11-02,GB-013,013-18,Size/fit issue,A,Processed
+R50550,2026-11-02,GB-050,050-03,Defective – not powering on,D,Processed
+R50173,2026-11-02,GB-014,014-08,Size/fit issue,A,Processed
+R50741,2026-11-02,GB-081,081-11,Changed mind,B,Processed
+R50116,2026-11-02,GB-007,007-17,Damaged in transit,B,Processed
+R50889,2026-11-03,PB-10K,PB-33,Damaged in transit,C,Processed
+R50012,2026-11-03,GB-002,002-17,Changed mind,A,Processed
+R50018,2026-11-03,GB-003,003-08,Changed mind,B,Processed
+R50109,2026-11-03,GB-006,006-13,Defective – not powering on,B,Processed
+R50544,2026-11-03,GB-050,050-08,Damaged in transit,A,Processed
+R50191,2026-11-03,GB-018,018-07,Missing accessories,D,Processed
+R50879,2026-11-03,SPK-OLD,SP-02,Performance issue,C,In refurbishment queue
+R50428,2026-11-03,GB-043,043-16,Size/fit issue,B,Processed
+R50253,2026-11-03,GB-028,028-09,Not as described,A,Processed
+R50488,2026-11-04,GB-046,046-04,Damaged in transit,B,Processed
+R50648,2026-11-04,GB-068,068-09,Size/fit issue,A,Processed
+R50053,2026-11-04,GB-003,003-17,Defective – not powering on,D,Processed
+R50171,2026-11-04,GB-014,014-08,Performance issue,D,Processed
+R50720,2026-11-04,GB-078,078-17,Performance issue,B,Processed
+R50332,2026-11-04,GB-037,037-11,Performance issue,B,Processed
+R50768,2026-11-04,HP-220,HB-09,Defective – left earcup no sound,B,Awaiting decision
+R50132,2026-11-04,GB-010,010-03,Changed mind,A,Processed
+R50705,2026-11-04,GB-078,078-18,Defective – not powering on,A,Processed
+R50892,2026-11-04,PB-10K,PB-33,Missing accessories,A,Processed
+R50755,2026-11-04,HP-220,HB-09,Defective – left earcup no sound,B,Awaiting decision
+R50354,2026-11-04,GB-037,037-07,Defective – not powering on,A,Processed
+R50757,2026-11-04,HP-220,HB-09,Defective – left earcup no sound,B,Awaiting decision
+R50880,2026-11-04,SPK-OLD,SP-02,Damaged in transit,B,In refurbishment queue
+R50492,2026-11-05,GB-046,046-18,Damaged in transit,A,Processed
+R50569,2026-11-05,GB-052,052-01,Missing accessories,A,Processed
+R50814,2026-11-05,HP-220,HB-08,Performance issue,A,Processed
+R50471,2026-11-05,GB-046,046-18,Performance issue,A,Processed
+R50256,2026-11-05,GB-028,028-04,Size/fit issue,B,Processed
+R50899,2026-11-05,PB-10K,PB-32,Damaged in transit,A,Processed
+R50631,2026-11-05,GB-065,065-16,Damaged in transit,B,Processed
+R50653,2026-11-05,GB-068,068-05,Not as described,A,Processed
+R50756,2026-11-05,HP-220,HB-09,Defective – left earcup no sound,B,Awaiting decision
+R50222,2026-11-05,GB-021,021-10,Defective – not powering on,B,Processed
+R50372,2026-11-05,GB-040,040-01,Not as described,A,Processed
+R50538,2026-11-05,GB-050,050-06,Performance issue,D,Processed
+R50858,2026-11-05,SW-60,SW-05,Changed mind,A,Queued for liquidation
+R50860,2026-11-06,SW-60,SW-05,Changed mind,A,Queued for liquidation
+R50882,2026-11-06,SPK-OLD,SP-02,Defective – not powering on,C,In refurbishment queue
+R50233,2026-11-06,GB-023,023-07,Missing accessories,A,Awaiting decision
+R50571,2026-11-06,GB-053,053-05,Defective – not powering on,C,Awaiting decision
+R50856,2026-11-06,SW-60,SW-05,Changed mind,A,Queued for liquidation
+R50597,2026-11-06,GB-059,059-17,Defective – not powering on,B,Awaiting decision
+R50884,2026-11-06,SPK-OLD,SP-02,Not as described,C,In refurbishment queue
+R50241,2026-11-06,GB-025,025-11,Performance issue,A,Awaiting decision
+R50869,2026-11-06,SPK-OLD,SP-02,Performance issue,C,In refurbishment queue
+R50426,2026-11-06,GB-043,043-08,Damaged in transit,A,Awaiting decision
+R50468,2026-11-06,GB-046,046-18,Damaged in transit,B,Awaiting decision
+R50265,2026-11-06,GB-028,028-01,Defective – not powering on,A,Awaiting decision
+R50347,2026-11-06,GB-037,037-19,Changed mind,C,Awaiting decision
+R50205,2026-11-06,GB-018,018-04,Missing accessories,A,Awaiting decision
+R50562,2026-11-06,GB-051,051-06,Changed mind,A,Awaiting decision
+R50764,2026-11-07,HP-220,HB-09,Defective – left earcup no sound,B,Awaiting decision
+R50863,2026-11-07,SW-60,SW-05,Changed mind,A,Queued for liquidation
+R50239,2026-11-07,GB-025,025-13,Damaged in transit,B,Awaiting decision
+R50331,2026-11-07,GB-036,036-09,Performance issue,D,Awaiting decision
+R50689,2026-11-07,GB-074,074-15,Damaged in transit,A,Awaiting decision
+R50437,2026-11-07,GB-044,044-17,Damaged in transit,B,Awaiting decision
+R50747,2026-11-07,GB-081,081-01,Missing accessories,D,Awaiting decision
+R50417,2026-11-07,GB-043,043-05,Damaged in transit,B,Awaiting decision
+R50850,2026-11-07,SW-60,SW-05,Changed mind,A,Queued for liquidation
+R50874,2026-11-08,SPK-OLD,SP-02,Performance issue,B,In refurbishment queue
+R50029,2026-11-08,GB-003,003-01,Changed mind,B,Awaiting decision
+R50682,2026-11-08,GB-073,073-12,Defective – not powering on,B,Awaiting decision
+R50152,2026-11-08,GB-012,012-14,Not as described,C,Awaiting decision
+R50200,2026-11-08,GB-018,018-09,Missing accessories,C,Awaiting decision
+R50627,2026-11-08,GB-064,064-08,Changed mind,B,Awaiting decision
+R50169,2026-11-08,GB-013,013-08,Damaged in transit,B,Awaiting decision
+R50651,2026-11-08,GB-068,068-05,Performance issue,C,Awaiting decision
+R50650,2026-11-08,GB-068,068-10,Missing accessories,A,Awaiting decision
+R50794,2026-11-08,HP-220,HB-07,Performance issue,A,Processed
+R50237,2026-11-08,GB-025,025-01,Missing accessories,A,Awaiting decision
+R50097,2026-11-08,GB-006,006-12,Missing accessories,A,Awaiting decision
+R50345,2026-11-08,GB-037,037-07,Defective – not powering on,A,Awaiting decision
+R50584,2026-11-08,GB-057,057-03,Damaged in transit,B,Awaiting decision
+R50913,2026-11-09,PB-10K,PB-32,Changed mind,C,Processed
+R50558,2026-11-09,GB-051,051-10,Performance issue,B,Awaiting decision
+R50433,2026-11-09,GB-044,044-03,Missing accessories,A,Awaiting decision
+R50147,2026-11-09,GB-012,012-13,Damaged in transit,C,Awaiting decision
+R50219,2026-11-09,GB-021,021-05,Defective – not powering on,B,Awaiting decision
+R50167,2026-11-09,GB-013,013-16,Size/fit issue,B,Awaiting decision
+R50287,2026-11-09,GB-032,032-09,Performance issue,A,Awaiting decision
+R50772,2026-11-09,HP-220,HB-09,Defective – left earcup no sound,B,Awaiting decision
+R50479,2026-11-09,GB-046,046-10,Size/fit issue,A,Awaiting decision
+R50593,2026-11-10,GB-058,058-10,Defective – not powering on,A,Awaiting decision
+R50862,2026-11-10,SW-60,SW-05,Changed mind,A,Queued for liquidation
+R50701,2026-11-10,GB-075,075-03,Damaged in transit,D,Awaiting decision
+R50851,2026-11-10,SW-60,SW-05,Changed mind,A,Queued for liquidation
+R50004,2026-11-10,GB-001,001-02,Size/fit issue,A,Awaiting decision
+R50901,2026-11-10,PB-10K,PB-33,Missing accessories,A,Processed
+R50052,2026-11-10,GB-003,003-03,Performance issue,B,Awaiting decision
+R50013,2026-11-10,GB-002,002-09,Defective – not powering on,A,Awaiting decision
+R50366,2026-11-10,GB-039,039-07,Changed mind,A,Awaiting decision
+R50311,2026-11-10,GB-035,035-15,Not as described,A,Awaiting decision
+R50140,2026-11-11,GB-010,010-13,Size/fit issue,A,Awaiting decision
+R50121,2026-11-11,GB-008,008-13,Defective – not powering on,A,Awaiting decision
+R50873,2026-11-11,SPK-OLD,SP-02,Defective – not powering on,C,In refurbishment queue
+R50870,2026-11-11,SPK-OLD,SP-02,Not as described,C,In refurbishment queue
+R50896,2026-11-11,PB-10K,PB-33,Defective – not powering on,A,Processed
+R50161,2026-11-11,GB-013,013-17,Missing accessories,B,Awaiting decision
+R50561,2026-11-11,GB-051,051-08,Size/fit issue,A,Awaiting decision
+R50680,2026-11-11,GB-073,073-02,Changed mind,B,Awaiting decision
+R50715,2026-11-11,GB-078,078-15,Not as described,A,Awaiting decision
+R50762,2026-11-11,HP-220,HB-09,Defective – left earcup no sound,B,Awaiting decision
+R50760,2026-11-11,HP-220,HB-09,Defective – left earcup no sound,B,Awaiting decision
+R50247,2026-11-11,GB-026,026-02,Performance issue,A,Awaiting decision
+R50543,2026-11-11,GB-050,050-09,Damaged in transit,A,Awaiting decision
+R50582,2026-11-11,GB-056,056-18,Performance issue,A,Awaiting decision
+R50108,2026-11-11,GB-006,006-16,Damaged in transit,A,Awaiting decision
+R50283,2026-11-11,GB-031,031-07,Size/fit issue,B,Awaiting decision
+R50767,2026-11-11,HP-220,HB-09,Defective – left earcup no sound,B,Awaiting decision
+R50244,2026-11-11,GB-025,025-04,Defective – not powering on,D,Awaiting decision
+R50051,2026-11-11,GB-003,003-06,Defective – not powering on,A,Awaiting decision
+R50738,2026-11-11,GB-081,081-08,Performance issue,A,Awaiting decision
+R50853,2026-11-11,SW-60,SW-05,Changed mind,A,Queued for liquidation
+R50859,2026-11-12,SW-60,SW-05,Changed mind,A,Queued for liquidation
+R50533,2026-11-12,GB-050,050-02,Defective – not powering on,A,Awaiting decision
+R50857,2026-11-12,SW-60,SW-05,Changed mind,A,Queued for liquidation
+R50008,2026-11-12,GB-002,002-13,Not as described,B,Awaiting decision
+R50588,2026-11-12,GB-058,058-13,Missing accessories,A,Awaiting decision
+R50855,2026-11-12,SW-60,SW-05,Changed mind,A,Queued for liquidation
+R50854,2026-11-12,SW-60,SW-05,Changed mind,A,Queued for liquidation
+R50083,2026-11-12,GB-003,003-14,Defective – not powering on,A,Awaiting decision
+R50849,2026-11-12,SW-60,SW-05,Changed mind,A,Queued for liquidation
+R50580,2026-11-12,GB-056,056-11,Damaged in transit,B,Awaiting decision
+R50852,2026-11-12,SW-60,SW-05,Changed mind,A,Queued for liquidation
+R50142,2026-11-12,GB-010,010-01,Performance issue,A,Awaiting decision
+R50515,2026-11-12,GB-047,047-13,Performance issue,A,Awaiting decision
+R50068,2026-11-12,GB-003,003-12,Damaged in transit,A,Awaiting decision
+R50619,2026-11-12,GB-063,063-04,Changed mind,A,Awaiting decision
+R50072,2026-11-13,GB-003,003-04,Size/fit issue,A,Awaiting decision
+R50374,2026-11-13,GB-040,040-11,Defective – not powering on,D,Awaiting decision
+R50567,2026-11-13,GB-052,052-04,Size/fit issue,A,Awaiting decision
+R50528,2026-11-13,GB-049,049-07,Defective – not powering on,B,Awaiting decision
+R50003,2026-11-13,GB-001,001-05,Size/fit issue,C,Awaiting decision
+R50037,2026-11-13,GB-003,003-02,Missing accessories,B,Awaiting decision
+R50490,2026-11-13,GB-046,046-01,Defective – not powering on,C,Awaiting decision
+R50861,2026-11-13,SW-60,SW-05,Changed mind,A,Queued for liquidation
+R50643,2026-11-13,GB-067,067-04,Not as described,B,Awaiting decision
+R50425,2026-11-13,GB-043,043-09,Size/fit issue,A,Awaiting decision
+R50118,2026-11-13,GB-007,007-07,Not as described,A,Awaiting decision
+R50570,2026-11-14,GB-052,052-12,Defective – not powering on,C,Awaiting decision
+R50087,2026-11-14,GB-003,003-08,Performance issue,B,Awaiting decision
+R50634,2026-11-14,GB-065,065-08,Size/fit issue,A,Awaiting decision
+R50181,2026-11-14,GB-017,017-11,Defective – not powering on,C,Awaiting decision
+R50115,2026-11-14,GB-007,007-08,Performance issue,A,Awaiting decision
+R50563,2026-11-14,GB-051,051-03,Not as described,A,Awaiting decision
+R50699,2026-11-14,GB-075,075-04,Performance issue,B,Awaiting decision
+R50280,2026-11-14,GB-030,030-15,Damaged in transit,B,Awaiting decision
+R50305,2026-11-15,GB-034,034-13,Performance issue,B,Awaiting decision
+R50450,2026-11-15,GB-044,044-17,Size/fit issue,B,Awaiting decision
+R50655,2026-11-15,GB-068,068-12,Changed mind,A,Awaiting decision
+R50379,2026-11-15,GB-041,041-05,Size/fit issue,A,Awaiting decision
+R50158,2026-11-15,GB-013,013-07,Size/fit issue,B,Awaiting decision
+R50369,2026-11-15,GB-040,040-04,Defective – not powering on,A,Awaiting decision

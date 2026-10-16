@@ -1,0 +1,89 @@
+sku,product,category,cost_price,selling_price,supplier
+GB-001,Wireless Earbuds Lite,Audio,2847,4400,TechLink Distributors
+GB-002,Wireless Earbuds Pro,Audio,2672,5213,Ningbo Smart Devices
+GB-003,Wireless Earbuds Max,Audio,591,1168,Ningbo Smart Devices
+GB-004,Neckband Lite,Audio,3038,5953,Chennai Kitchenware Co
+GB-005,Neckband Pro,Audio,1860,2937,Noida Electronics Mfg
+GB-006,Neckband Max,Audio,739,1370,Bharat Home Appliances
+GB-007,Bluetooth Speaker Lite,Audio,1803,2922,Ningbo Smart Devices
+GB-008,Bluetooth Speaker Pro,Audio,2330,4517,Chennai Kitchenware Co
+GB-009,Bluetooth Speaker Max,Audio,1419,2420,Noida Electronics Mfg
+GB-010,Over-ear Headphones Lite,Audio,1376,2221,TechLink Distributors
+GB-011,Over-ear Headphones Pro,Audio,3148,5684,Ningbo Smart Devices
+GB-012,Over-ear Headphones Max,Audio,1958,3101,Chennai Kitchenware Co
+GB-013,Soundbar Lite,Audio,575,1116,Bharat Home Appliances
+GB-014,Soundbar Pro,Audio,3369,5823,Ningbo Smart Devices
+GB-015,Soundbar Max,Audio,693,1331,Shenzhen Acoustics Ltd
+GB-016,Smartwatch Lite,Wearables,3978,7727,Noida Electronics Mfg
+GB-017,Smartwatch Pro,Wearables,3086,5239,Chennai Kitchenware Co
+GB-018,Smartwatch Max,Wearables,3427,5808,Bharat Home Appliances
+GB-019,Fitness Band Lite,Wearables,1522,2695,TechLink Distributors
+GB-020,Fitness Band Pro,Wearables,1547,2941,TechLink Distributors
+GB-021,Fitness Band Max,Wearables,1122,1770,Bharat Home Appliances
+GB-022,Power Bank Lite,Mobile Accessories,1412,2268,TechLink Distributors
+GB-023,Power Bank Pro,Mobile Accessories,411,767,TechLink Distributors
+GB-024,Power Bank Max,Mobile Accessories,426,659,Bharat Home Appliances
+GB-025,Fast Charger Lite,Mobile Accessories,129,203,Shenzhen Acoustics Ltd
+GB-026,Fast Charger Pro,Mobile Accessories,791,1345,Noida Electronics Mfg
+GB-027,Fast Charger Max,Mobile Accessories,294,584,Bharat Home Appliances
+GB-028,USB-C Cable Lite,Mobile Accessories,759,1316,Shenzhen Acoustics Ltd
+GB-029,USB-C Cable Pro,Mobile Accessories,745,1234,TechLink Distributors
+GB-030,USB-C Cable Max,Mobile Accessories,317,518,Bharat Home Appliances
+GB-031,Phone Case Lite,Mobile Accessories,464,879,Shenzhen Acoustics Ltd
+GB-032,Phone Case Pro,Mobile Accessories,1163,2004,Bharat Home Appliances
+GB-033,Phone Case Max,Mobile Accessories,420,741,TechLink Distributors
+GB-034,Phone Tripod Lite,Mobile Accessories,1111,1803,Chennai Kitchenware Co
+GB-035,Phone Tripod Pro,Mobile Accessories,962,1530,TechLink Distributors
+GB-036,Phone Tripod Max,Mobile Accessories,1402,2495,Shenzhen Acoustics Ltd
+GB-037,Mixer Grinder Lite,Kitchen,1995,3677,Ningbo Smart Devices
+GB-038,Mixer Grinder Pro,Kitchen,3589,6081,Bharat Home Appliances
+GB-039,Mixer Grinder Max,Kitchen,4324,7005,Chennai Kitchenware Co
+GB-040,Electric Kettle Lite,Kitchen,1987,3267,Ningbo Smart Devices
+GB-041,Electric Kettle Pro,Kitchen,3911,6384,Shenzhen Acoustics Ltd
+GB-042,Electric Kettle Max,Kitchen,2138,3411,Ningbo Smart Devices
+GB-043,Air Fryer Lite,Kitchen,2965,5243,Ningbo Smart Devices
+GB-044,Air Fryer Pro,Kitchen,1189,2333,Ningbo Smart Devices
+GB-045,Air Fryer Max,Kitchen,1983,3822,Bharat Home Appliances
+GB-046,Toaster Lite,Kitchen,4338,7503,TechLink Distributors
+GB-047,Toaster Pro,Kitchen,2676,5254,TechLink Distributors
+GB-048,Toaster Max,Kitchen,3692,6244,Shenzhen Acoustics Ltd
+GB-049,Induction Cooktop Lite,Kitchen,3274,5860,Noida Electronics Mfg
+GB-050,Induction Cooktop Pro,Kitchen,2127,3468,Chennai Kitchenware Co
+GB-051,Induction Cooktop Max,Kitchen,1915,2949,Bharat Home Appliances
+GB-052,Laptop Lite,Computing,1034,1642,Noida Electronics Mfg
+GB-053,Laptop Pro,Computing,5232,9181,TechLink Distributors
+GB-054,Laptop Max,Computing,1972,3518,Ningbo Smart Devices
+GB-055,Keyboard Lite,Computing,7296,12013,Bharat Home Appliances
+GB-056,Keyboard Pro,Computing,5036,8137,Bharat Home Appliances
+GB-057,Keyboard Max,Computing,4965,9204,Shenzhen Acoustics Ltd
+GB-058,Mouse Lite,Computing,6365,10576,TechLink Distributors
+GB-059,Mouse Pro,Computing,780,1539,Ningbo Smart Devices
+GB-060,Mouse Max,Computing,8867,14403,TechLink Distributors
+GB-061,Monitor Lite,Computing,3436,5545,Ningbo Smart Devices
+GB-062,Monitor Pro,Computing,768,1457,Chennai Kitchenware Co
+GB-063,Monitor Max,Computing,1231,2139,TechLink Distributors
+GB-064,Webcam Lite,Computing,6507,10943,Ningbo Smart Devices
+GB-065,Webcam Pro,Computing,5395,9104,Noida Electronics Mfg
+GB-066,Webcam Max,Computing,3025,5317,Bharat Home Appliances
+GB-067,LED Lamp Lite,Home,2290,3735,Bharat Home Appliances
+GB-068,LED Lamp Pro,Home,2100,4131,Noida Electronics Mfg
+GB-069,LED Lamp Max,Home,2241,3558,Bharat Home Appliances
+GB-070,Ceiling Fan Lite,Home,348,646,TechLink Distributors
+GB-071,Ceiling Fan Pro,Home,1021,2032,Chennai Kitchenware Co
+GB-072,Ceiling Fan Max,Home,2622,4252,Shenzhen Acoustics Ltd
+GB-073,Room Heater Lite,Home,561,1040,Ningbo Smart Devices
+GB-074,Room Heater Pro,Home,1352,2460,Noida Electronics Mfg
+GB-075,Room Heater Max,Home,2259,3709,Chennai Kitchenware Co
+GB-076,Iron Lite,Home,959,1781,Ningbo Smart Devices
+GB-077,Iron Pro,Home,1068,2098,TechLink Distributors
+GB-078,Iron Max,Home,2508,4815,Bharat Home Appliances
+GB-079,Trimmer Lite,Home,567,910,Noida Electronics Mfg
+GB-080,Trimmer Pro,Home,1187,2247,Bharat Home Appliances
+GB-081,Trimmer Max,Home,1500,2453,Noida Electronics Mfg
+HP-220,Over-ear Headphones ANC 220,Audio,1400,2500,Shenzhen Acoustics Ltd
+LT-14A,"Laptop 14"" Ryzen 5",Computing,38000,52990,TechLink Distributors
+MX-750,Mixer Grinder 750W,Kitchen,2100,3499,Chennai Kitchenware Co
+SW-60,Smartwatch AMOLED 60,Wearables,2200,4499,Ningbo Smart Devices
+SPK-OLD,Bluetooth Speaker 2022 (discontinued),Audio,900,1299,Shenzhen Acoustics Ltd
+TRP-01,Phone Tripod Mini,Mobile Accessories,180,399,Ningbo Smart Devices
+PB-10K,Power Bank 10000mAh,Mobile Accessories,650,1199,Noida Electronics Mfg

@@ -1,0 +1,25 @@
+category,condition_grade,recovery_pct_of_cost
+Audio,A,0.55
+Audio,B,0.35
+Audio,C,0.2
+Audio,D,0.05
+Wearables,A,0.55
+Wearables,B,0.35
+Wearables,C,0.2
+Wearables,D,0.05
+Mobile Accessories,A,0.55
+Mobile Accessories,B,0.35
+Mobile Accessories,C,0.2
+Mobile Accessories,D,0.05
+Kitchen,A,0.55
+Kitchen,B,0.35
+Kitchen,C,0.2
+Kitchen,D,0.05
+Computing,A,0.55
+Computing,B,0.35
+Computing,C,0.2
+Computing,D,0.05
+Home,A,0.55
+Home,B,0.35
+Home,C,0.2
+Home,D,0.05

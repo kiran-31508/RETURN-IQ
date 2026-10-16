@@ -1,0 +1,89 @@
+supplier,sku,rtv_allowed,credit_pct,window_days
+TechLink Distributors,GB-001,Yes,0.6,30
+Ningbo Smart Devices,GB-002,Yes,0.6,30
+Ningbo Smart Devices,GB-003,No,0.6,15
+Chennai Kitchenware Co,GB-004,No,0.6,15
+Noida Electronics Mfg,GB-005,Yes,0.7,15
+Bharat Home Appliances,GB-006,Yes,0.6,15
+Ningbo Smart Devices,GB-007,Yes,0.6,30
+Chennai Kitchenware Co,GB-008,Yes,0.5,45
+Noida Electronics Mfg,GB-009,Yes,0.6,30
+TechLink Distributors,GB-010,Yes,0.6,30
+Ningbo Smart Devices,GB-011,No,0.6,45
+Chennai Kitchenware Co,GB-012,No,0.7,30
+Bharat Home Appliances,GB-013,Yes,0.5,45
+Ningbo Smart Devices,GB-014,Yes,0.6,30
+Shenzhen Acoustics Ltd,GB-015,No,0.7,45
+Noida Electronics Mfg,GB-016,Yes,0.5,30
+Chennai Kitchenware Co,GB-017,No,0.6,45
+Bharat Home Appliances,GB-018,No,0.6,45
+TechLink Distributors,GB-019,Yes,0.6,15
+TechLink Distributors,GB-020,No,0.7,15
+Bharat Home Appliances,GB-021,Yes,0.5,30
+TechLink Distributors,GB-022,No,0.5,30
+TechLink Distributors,GB-023,Yes,0.5,15
+Bharat Home Appliances,GB-024,No,0.5,15
+Shenzhen Acoustics Ltd,GB-025,Yes,0.7,45
+Noida Electronics Mfg,GB-026,Yes,0.5,45
+Bharat Home Appliances,GB-027,No,0.5,45
+Shenzhen Acoustics Ltd,GB-028,Yes,0.5,15
+TechLink Distributors,GB-029,Yes,0.7,45
+Bharat Home Appliances,GB-030,Yes,0.7,45
+Shenzhen Acoustics Ltd,GB-031,No,0.6,45
+Bharat Home Appliances,GB-032,Yes,0.5,15
+TechLink Distributors,GB-033,Yes,0.5,15
+Chennai Kitchenware Co,GB-034,No,0.7,30
+TechLink Distributors,GB-035,Yes,0.5,45
+Shenzhen Acoustics Ltd,GB-036,Yes,0.5,15
+Ningbo Smart Devices,GB-037,Yes,0.6,15
+Bharat Home Appliances,GB-038,Yes,0.6,15
+Chennai Kitchenware Co,GB-039,Yes,0.7,30
+Ningbo Smart Devices,GB-040,Yes,0.7,45
+Shenzhen Acoustics Ltd,GB-041,Yes,0.6,45
+Ningbo Smart Devices,GB-042,Yes,0.6,15
+Ningbo Smart Devices,GB-043,Yes,0.5,15
+Ningbo Smart Devices,GB-044,Yes,0.5,30
+Bharat Home Appliances,GB-045,Yes,0.5,15
+TechLink Distributors,GB-046,No,0.7,45
+TechLink Distributors,GB-047,No,0.6,30
+Shenzhen Acoustics Ltd,GB-048,Yes,0.7,15
+Noida Electronics Mfg,GB-049,No,0.7,30
+Chennai Kitchenware Co,GB-050,Yes,0.6,30
+Bharat Home Appliances,GB-051,No,0.5,45
+Noida Electronics Mfg,GB-052,No,0.7,30
+TechLink Distributors,GB-053,Yes,0.5,15
+Ningbo Smart Devices,GB-054,Yes,0.7,45
+Bharat Home Appliances,GB-055,Yes,0.7,30
+Bharat Home Appliances,GB-056,Yes,0.7,30
+Shenzhen Acoustics Ltd,GB-057,Yes,0.5,30
+TechLink Distributors,GB-058,No,0.7,30
+Ningbo Smart Devices,GB-059,No,0.7,15
+TechLink Distributors,GB-060,Yes,0.7,15
+Ningbo Smart Devices,GB-061,Yes,0.6,30
+Chennai Kitchenware Co,GB-062,Yes,0.7,30
+TechLink Distributors,GB-063,Yes,0.6,30
+Ningbo Smart Devices,GB-064,No,0.6,15
+Noida Electronics Mfg,GB-065,No,0.6,45
+Bharat Home Appliances,GB-066,Yes,0.5,30
+Bharat Home Appliances,GB-067,Yes,0.5,30
+Noida Electronics Mfg,GB-068,No,0.6,45
+Bharat Home Appliances,GB-069,No,0.5,30
+TechLink Distributors,GB-070,Yes,0.5,45
+Chennai Kitchenware Co,GB-071,Yes,0.5,15
+Shenzhen Acoustics Ltd,GB-072,Yes,0.6,15
+Ningbo Smart Devices,GB-073,No,0.5,30
+Noida Electronics Mfg,GB-074,Yes,0.5,15
+Chennai Kitchenware Co,GB-075,Yes,0.7,30
+Ningbo Smart Devices,GB-076,Yes,0.5,45
+TechLink Distributors,GB-077,Yes,0.7,45
+Bharat Home Appliances,GB-078,No,0.6,30
+Noida Electronics Mfg,GB-079,Yes,0.5,15
+Bharat Home Appliances,GB-080,Yes,0.7,30
+Noida Electronics Mfg,GB-081,Yes,0.5,15
+Shenzhen Acoustics Ltd,HP-220,Yes,0.6,30
+TechLink Distributors,LT-14A,Yes,0.6,45
+Chennai Kitchenware Co,MX-750,Yes,0.7,30
+Ningbo Smart Devices,SW-60,No,0.0,0
+Shenzhen Acoustics Ltd,SPK-OLD,No,0.0,0
+Ningbo Smart Devices,TRP-01,Yes,0.5,30
+Noida Electronics Mfg,PB-10K,Yes,0.8,45
